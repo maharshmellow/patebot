@@ -1,2 +1,3 @@
-# patebot
-Reddit Bot Development Testing
+# UNDER DEVELOPMENT
+Reddit Bot made with Python
+
